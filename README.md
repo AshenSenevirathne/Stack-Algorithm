@@ -1,0 +1,2 @@
+# Stack-Algorithm
+In a stack all insertions and deletions are made at one end (Top). Insertions and deletions are restricted from the Middle and at the End of a Stack  Adding an item is called  Push Removing an item is called  Pop  Elements are removed from a Stack in the reverse order of that in which the elements       were inserted into the Stack The elements are inserted and removed according to the Last-In-First-Out (LIFO) principle
